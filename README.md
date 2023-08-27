@@ -1,59 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8924295&assignment_repo_type=AssignmentRepo)
 Hint: [Markup Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-# CheckPoint3 Task Checkout List
-File created to keep track of MVP tasks, Overall description at below
-## Add your name after your desired task;
-### Add DONE infront of your finished task;
-#### Add any features you can think of in the list, give it a priority tag infront (0 is MVP)
-### Add LATER to finish task during next checkpoint
-
-DONE [P1] Avatar display [Austin]
-
-DONE [P1] Food varities [Austin] -with speed up and ememy generation
-
-DONE [P2] Ememy movement scaling [Austin]
-
-DONE [P1] Weapon paper roll [Austin]
-
-DONE [P0] Social Media Page API [Megana]
-
-LATER [P0] Social Media Permissions [Megana]
-
-DONE [P0] App Link Creation & Send [Megana]
-
-LATER [P0] Test Social Media Link [Megana]
-
-DONE [P0] Option resize problem [Chris]
-
-LATER [P0] Photo Premissions [Chris]
-
-LATER [P0] Photo editing [Chris]
-
-LATER [P0] Avatar replacement [Chris]
-
-LATER [P0] Full screen Ad - every 3 gameplays [Austin]
-
-LATER [P1] Starting Story Scene w/ or w/o tutorial [Austin]
-
-DONE [P0] Tomestone design - State Managment [Austin]
-
-LATER [P2] Localization/String translations
-
-DONE [P1] No audio playing when in background [Unity]
-
-DONE [P2] Landscape Orientation [Austin]
-
-DONE [P1] Nightclub Option [Austin]
-
-LATER [P2] Poo display animation [Austin]
-
-LATER [P2] Roll direction arrows? [Austin]
-
-
-
-
-
 # TP Roll
 ## Tagline: escape your 💩 
 *Megana Reddy Boddam, Austin Yao, Chris Yu*
@@ -255,3 +202,58 @@ Development tools:
 
 5. https://technical.ly/uncategorized/nyu-game-center-flappy-bird-case-study/
 6. https://www.theverge.com/2014/6/4/5776232/temple-run-1-billion-downloads
+
+
+
+# CheckPoint3 Task Checkout List
+File created to keep track of MVP tasks, Overall description at below
+## Add your name after your desired task;
+### Add DONE infront of your finished task;
+#### Add any features you can think of in the list, give it a priority tag infront (0 is MVP)
+### Add LATER to finish task during next checkpoint
+
+DONE [P1] Avatar display [Austin]
+
+DONE [P1] Food varities [Austin] -with speed up and ememy generation
+
+DONE [P2] Ememy movement scaling [Austin]
+
+DONE [P1] Weapon paper roll [Austin]
+
+DONE [P0] Social Media Page API [Megana]
+
+LATER [P0] Social Media Permissions [Megana]
+
+DONE [P0] App Link Creation & Send [Megana]
+
+LATER [P0] Test Social Media Link [Megana]
+
+DONE [P0] Option resize problem [Chris]
+
+LATER [P0] Photo Premissions [Chris]
+
+LATER [P0] Photo editing [Chris]
+
+LATER [P0] Avatar replacement [Chris]
+
+LATER [P0] Full screen Ad - every 3 gameplays [Austin]
+
+LATER [P1] Starting Story Scene w/ or w/o tutorial [Austin]
+
+DONE [P0] Tomestone design - State Managment [Austin]
+
+LATER [P2] Localization/String translations
+
+DONE [P1] No audio playing when in background [Unity]
+
+DONE [P2] Landscape Orientation [Austin]
+
+DONE [P1] Nightclub Option [Austin]
+
+LATER [P2] Poo display animation [Austin]
+
+LATER [P2] Roll direction arrows? [Austin]
+
+
+
+
